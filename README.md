@@ -14,7 +14,7 @@
 
 <br />
 
-Hi, I'm Aryan Gupta, a passionate self-taught Backend web developer and an undergraduate from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the code quality of the things I build.
+Hi, I'm Aryan Gupta, a passionate self-taught Backend web developer and an undergraduate from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the code quality of the things I build.
 
 
 
