@@ -18,6 +18,9 @@ Hi, I'm Aryan Gupta, a passionate self-taught Backend web developer and an under
 
 
 
+
+
+
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:aryanetaundiya@gmail.com) :)
@@ -52,7 +55,7 @@ Others       1 hrs 15 mins   ████░░░░░░░░░░░░░
 <!-- TODO-IST:END -->
 
 
-📈 my github stats
+📈 **my github stats**
 </a>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aryangupta008&show_icons=true&theme=gotham" alt="aryangupta008" />
 
