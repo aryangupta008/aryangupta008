@@ -1,4 +1,4 @@
-### hey there!
+# hey there!
 <a href="https://www.instagram.com/wakeupparyan/">
   <img align="left" alt="Aryan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -9,9 +9,7 @@
   <img align="left" alt="Aryan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-
 ![](https://visitor-badge.glitch.me/badge?page_id=aryangupta008.aryangupta008)
-
 <br />
 
 Hi, I'm Aryan Gupta, a passionate self-taught Backend web developer and an undergraduate from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the code quality of the things I build.
@@ -58,4 +56,16 @@ Others       1 hrs 15 mins   ████░░░░░░░░░░░░░
 📈 **my github stats**
 </a>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aryangupta008&show_icons=true&theme=gotham" alt="aryangupta008" />
+</p>
 
+<p align="center">
+    <img align="center" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=aryangupta008&"
+        alt="aryangupta008" />
+</p>
+
+<p align="center">
+    <img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=aryangupta008&show_icons=true&locale=en&layout=compact"
+        alt="aryangupta008" />
+</p>
